@@ -1,13 +1,13 @@
-# 👋 Hey there, I'm Vaibhav
+# 👋 Hey there, I'm Vaibhav Prajapat
 
-I'm a passionate Full Stack Developer who builds modern and scalable web applications with a strong eye for design and performance.
+**Full-stack developer** with hands-on experience in building scalable web applications. **Passionate** about crafting **efficient** and **user-friendly solutions**. **Proven ability** to **collaborate in teams** and **lead backend development** efforts.
 
 ---
 
 ### 💼 What I Do
 
-- 🌐 Currently interning at **HD Media Network** as a **MERN Stack Developer**
-- 🧑‍💻 Experienced in **freelancing** and **collaborating** on real-world web development projects
+- 🌐 Currently intern at **HD Media Network** as a **MERN Stack Developer**
+- 🧑‍💻 Experienced in **freelancing** and **collaborating** on real-world projects
 - 📚 Actively learning **Data Structures and Algorithms** with **C++**
 
 ---
@@ -24,15 +24,15 @@ I'm a passionate Full Stack Developer who builds modern and scalable web applica
 ### 🚀 Currently Exploring
 
 - Deeper backend architecture using Node.js & TypeScript
-- Advanced DSA concepts and problem-solving techniques
+- DSA concepts and problem-solving techniques
 
 ---
 
 ### 📫 Let's Connect
 
-- [GitHub](https://github.com/vaibhavmule)
-- [LinkedIn](https://www.linkedin.com/in/vaibhavmule/)
-- [Email](mailto:vaibhavmule09@gmail.com)
+- [Email](mailto:vaibhav.prajapat.7725@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/vaibhavprajapat/)
+- [HackerRank](https://www.hackerrank.com/profile/vaibhav_prajapat)
 
 ---
 
@@ -47,5 +47,3 @@ I'm a passionate Full Stack Developer who builds modern and scalable web applica
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vai7725&theme=algolia)
 
 ---
-
-Thanks for visiting my profile!
