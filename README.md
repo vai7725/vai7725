@@ -36,4 +36,16 @@ I'm a passionate Full Stack Developer who builds modern and scalable web applica
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vai7725&layout=compact&theme=algolia)
+
+---
+
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vai7725&show_icons=true&theme=algolia)
+
+---
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vai7725&theme=algolia)
+
+---
+
 Thanks for visiting my profile!
